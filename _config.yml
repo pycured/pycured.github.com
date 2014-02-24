@@ -22,8 +22,6 @@ owner:
   email:          braoru@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    "I'm a Computer Security Enthusiast! #infosec #web #dev #nodejs #scala #ruby #python #dataviz #R #beer #singlemaltwhisky #fun #music and more ..."
-  # Social networking links used in footer. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        braoru
   facebook:       braoru
   stackexchange:  
