@@ -52,6 +52,7 @@ links:
     url: /tags
   - title: Pycured who ?
     url: http://twitter.com/pycured
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
